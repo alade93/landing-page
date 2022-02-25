@@ -1,0 +1,7 @@
+.bg-danger {
+  background: linear-gradient(
+    background: rgb(236,28,64);
+background: linear-gradient(54deg, rgba(236,28,64,1) 53%, rgba(255,165,0,1) 66%);
+  )
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
